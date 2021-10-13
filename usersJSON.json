@@ -1,0 +1,34 @@
+[
+    {
+        "email": "mr.muneebrasheed@gmail.zxs",
+        "first-name": "Muneeb",
+        "last-name": "Rasheed",
+        "password": "muneeb",
+        "date-of-birth": "1999-08-12",
+        "age": 22
+    },
+    {
+        "email": "mudassarkharal@gmail.com",
+        "first-name": "Mudassar",
+        "last-name": "Ali",
+        "password": "mudassar",
+        "date-of-birth": "1988-06-15",
+        "age": 33
+    },
+    {
+        "email": "email@gmail.com",
+        "first-name": "jahn",
+        "last-name": "jdhe",
+        "password": "hab",
+        "date-of-birth": "1983-11-15",
+        "age": 37
+    },
+    {
+        "email": "mr.muneebrasheed@gmail.com",
+        "first-name": "Muneeb",
+        "last-name": "Rasheed",
+        "password": "muneeb",
+        "date-of-birth": "2011-10-11",
+        "age": 10
+    }
+]

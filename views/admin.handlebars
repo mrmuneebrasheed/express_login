@@ -1,0 +1,7 @@
+{{>header}}
+<h1 style="text-align: center;">Users</h1>
+<ul style="display:flex ;flex-direction:column ; padding:10px; width: 45%; margin:auto; list-style:none">
+  {{#each users}}
+  <li style="background: whitesmoke; padding:5px; border:2px solid grey; margin:10px 0"><p><strong>Email: </strong>{{this.email}}</p><p> <strong>Name: </strong>{{this.first-name}} {{this.last-name}}</p>  <p><strong>Age: </strong>{{this.age}}</p></li>
+  {{/each}}
+</ul>

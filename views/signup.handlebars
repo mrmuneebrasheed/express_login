@@ -1,0 +1,17 @@
+{{>header}}
+<form action="/login" method="get" style="width: 15%; margin:auto"><h3>Already Registered? <button type="submit">Login</button></h3></form>
+<form action="/signup", method="post" style="display: flex; flex-direction:column; justify-content:space-evenly; width:25%; margin: 10vh auto ;border:2px solid black; padding:10px; min-height:50vh  " >
+<label for="email">Email</label>
+<input required type="email" name="email" id="email">
+<label for="first-name">First Name</label>
+<input type="text" name="first-name" id="first-name">
+<label for="last-name">Last Name</label>
+<input type="text" name="last-name" id="last-name">
+<label for="password">Password</label>
+<input type="password" name="password" id="password">
+<label for="password-confirm">Confirm Password</label>
+<input required type="password" name="password-confirm" id="password-confirm">
+<label for="dob">Date of Birth</label>
+<input type="date" name="date-of-birth" id="dob">
+<button type="submit">Sign Up</button>
+</form>
